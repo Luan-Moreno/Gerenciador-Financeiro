@@ -1,0 +1,3 @@
+C:/Users/luanp/Music/TrabalhoFinalCC2632/cmake-build-debug/CMakeFiles/TrabalhoFinalCC2632.dir
+C:/Users/luanp/Music/TrabalhoFinalCC2632/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/luanp/Music/TrabalhoFinalCC2632/cmake-build-debug/CMakeFiles/rebuild_cache.dir
